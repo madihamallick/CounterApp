@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CounterApp/static/css/main.ea4ad6d9.chunk.css",
+    "main.js": "/CounterApp/static/js/main.61e05716.chunk.js",
+    "main.js.map": "/CounterApp/static/js/main.61e05716.chunk.js.map",
+    "runtime-main.js": "/CounterApp/static/js/runtime-main.8918b772.js",
+    "runtime-main.js.map": "/CounterApp/static/js/runtime-main.8918b772.js.map",
+    "static/js/2.d27ad3b6.chunk.js": "/CounterApp/static/js/2.d27ad3b6.chunk.js",
+    "static/js/2.d27ad3b6.chunk.js.map": "/CounterApp/static/js/2.d27ad3b6.chunk.js.map",
+    "static/js/3.c77cb6e6.chunk.js": "/CounterApp/static/js/3.c77cb6e6.chunk.js",
+    "static/js/3.c77cb6e6.chunk.js.map": "/CounterApp/static/js/3.c77cb6e6.chunk.js.map",
+    "index.html": "/CounterApp/index.html",
+    "static/css/main.ea4ad6d9.chunk.css.map": "/CounterApp/static/css/main.ea4ad6d9.chunk.css.map",
+    "static/js/2.d27ad3b6.chunk.js.LICENSE.txt": "/CounterApp/static/js/2.d27ad3b6.chunk.js.LICENSE.txt",
+    "static/media/down.1c969b24.png": "/CounterApp/static/media/down.1c969b24.png",
+    "static/media/up.4143061c.png": "/CounterApp/static/media/up.4143061c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8918b772.js",
+    "static/js/2.d27ad3b6.chunk.js",
+    "static/css/main.ea4ad6d9.chunk.css",
+    "static/js/main.61e05716.chunk.js"
+  ]
+}
